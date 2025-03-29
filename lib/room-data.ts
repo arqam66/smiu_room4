@@ -1,0 +1,63 @@
+// Room data structure based on the provided information
+export const roomData = [
+  // Main Building
+  { id: "CR-A02", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-A03", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-A07", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-A09", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-A11", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-A12", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-A15", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-A18", building: "Main Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "Main Lab", building: "Main Building", floor: "Ground Floor", type: "Laboratory" },
+
+  // Talpur House
+  { id: "CR-03", building: "Talpur House", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-04", building: "Talpur House", floor: "Ground Floor", type: "Classroom" },
+  { id: "Environment Lab", building: "Talpur House", floor: "Ground Floor", type: "Laboratory" },
+  { id: "CR-101", building: "Talpur House", floor: "First Floor", type: "Classroom" },
+  { id: "CR-102", building: "Talpur House", floor: "First Floor", type: "Classroom" },
+  { id: "CR-103", building: "Talpur House", floor: "First Floor", type: "Classroom" },
+  { id: "CR-104", building: "Talpur House", floor: "First Floor", type: "Classroom" },
+  { id: "Comp. Lab-01", building: "Talpur House", floor: "First Floor", type: "Computer Lab" },
+  { id: "Comp. Lab-02", building: "Talpur House", floor: "First Floor", type: "Computer Lab" },
+  { id: "CR-201", building: "Talpur House", floor: "Second Floor", type: "Classroom" },
+  { id: "CR-202", building: "Talpur House", floor: "Second Floor", type: "Classroom" },
+  { id: "CR-203", building: "Talpur House", floor: "Second Floor", type: "Classroom" },
+  { id: "CR-204", building: "Talpur House", floor: "Second Floor", type: "Classroom" },
+  { id: "Computer Lab", building: "Talpur House", floor: "Second Floor", type: "Computer Lab" },
+
+  // Auxiliary Building
+  { id: "CR-401", building: "Auxiliary Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-402", building: "Auxiliary Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-403", building: "Auxiliary Building", floor: "Ground Floor", type: "Classroom" },
+  { id: "CR-301", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-302", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-303", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-304", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-305", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-306", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-307", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-404", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-405", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+  { id: "CR-406", building: "Auxiliary Building", floor: "First Floor", type: "Classroom" },
+
+  // IT Tower
+  { id: "IT Lab-201", building: "IT Tower", floor: "Second Floor", type: "IT Lab" },
+  { id: "IT Lab-202", building: "IT Tower", floor: "Second Floor", type: "IT Lab" },
+  { id: "IT Lab-203", building: "IT Tower", floor: "Second Floor", type: "IT Lab" },
+  { id: "IT Lab-204", building: "IT Tower", floor: "Second Floor", type: "IT Lab" },
+  { id: "IT-301", building: "IT Tower", floor: "Third Floor", type: "IT Room" },
+  { id: "IT-302", building: "IT Tower", floor: "Third Floor", type: "IT Room" },
+  { id: "IT-303", building: "IT Tower", floor: "Third Floor", type: "IT Room" },
+  { id: "IT-304", building: "IT Tower", floor: "Third Floor", type: "IT Room" },
+  { id: "IT-401", building: "IT Tower", floor: "Fourth Floor", type: "IT Room" },
+  { id: "IT-402", building: "IT Tower", floor: "Fourth Floor", type: "IT Room" },
+  { id: "IT-403", building: "IT Tower", floor: "Fourth Floor", type: "IT Room" },
+  { id: "IT-404", building: "IT Tower", floor: "Fourth Floor", type: "IT Room" },
+  { id: "IT-501", building: "IT Tower", floor: "Fifth Floor", type: "IT Room" },
+  { id: "IT-502", building: "IT Tower", floor: "Fifth Floor", type: "IT Room" },
+  { id: "IT-503", building: "IT Tower", floor: "Fifth Floor", type: "IT Room" },
+  { id: "IT-504", building: "IT Tower", floor: "Fifth Floor", type: "IT Room" },
+]
+
