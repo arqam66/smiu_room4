@@ -1,18 +1,3 @@
-Here’s the **enhanced README.md** with GitHub badges, a live demo section, and a polished open-source touch:
-
----
-
-```markdown
-# 🎯 SMIU Room 4 | Next.js + TypeScript + Tailwind
-
-![GitHub License](https://img.shields.io/github/license/arqam66/smiu_room4?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/arqam66/smiu_room4?style=flat-square)
-![GitHub Issues](https://img.shields.io/github/issues/arqam66/smiu_room4?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-14-blue?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript)
-
-A modern, high-performance web app built with **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**. Designed for scalability and developer happiness.
-
 ---
 
 ## ✨ Live Demo
