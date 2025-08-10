@@ -32,11 +32,6 @@ A modern, high-performance web app built with **Next.js 14 (App Router)**, **Typ
 
 ---
 
-## 🖥️ Screenshot
-
-![App Preview](https://raw.githubusercontent.com/arqam66/smiu_room4/main/public/screenshot.png)  
-*(Example screenshot – replace with your own)*
-
 ---
 
 ## 📂 Project Structure
